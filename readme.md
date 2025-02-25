@@ -42,3 +42,12 @@ We welcome contributions! Follow the steps below to contribute effectively.
 
 
 
+## How to predict spam or not spam for given mail
+
+    After cloning repo run " Spam_Email_Classifer.ipynb "
+    You can run on google colab  
+    When you run it on colab it will ask for email enter the mail text and get prediction 
+
+
+
+### Planning  to make an User Interface for this you can also contribute....!
